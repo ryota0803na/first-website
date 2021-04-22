@@ -1,0 +1,30 @@
+<style>
+    /* この中で CSS が書けるようになる */
+    button {
+      border-radius: 10px;
+      width: 35px;
+      height: 30px;
+      padding: 0;
+      
+    }
+
+    div{
+      font-size: 30px;
+    }
+
+    .number-button {
+     background-color:green;
+    }
+
+    .operator {
+     background-color:yellow
+     }
+    
+     #zero {
+       background-color: ;
+       position: absolute;
+       top:100px;
+       left: 20px;
+     }
+ 
+ </style>

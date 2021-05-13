@@ -13,7 +13,7 @@ document.addEventListener('keydown', (event) => {
       const button = document.getElementById('zero'); // DOM を取得する命令
 
       button.style.top = 80;
-      button.style.right = 0;
+      button.style.right = 60;
       
       break;
     }

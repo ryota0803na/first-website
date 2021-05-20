@@ -2,7 +2,7 @@ document.addEventListener('keydown', (event) => {
   switch (event.key) {
     case 'ArrowUp': {
       const button = document.getElementById('zero'); // DOM を取得する命令
-
+      background-color:=red
       button.style.top = 0;
       button.style.right = 0;
 
@@ -10,11 +10,7 @@ document.addEventListener('keydown', (event) => {
     }
 
     case 'ArrowDown': {
-      const button = document.getElementById('zero'); // DOM を取得する命令
-
-      button.style.top = 80;
-      button.style.right = 60;
-      
+      console.log('');
       break;
     }
 
